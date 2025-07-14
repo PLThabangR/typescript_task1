@@ -6,11 +6,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+   
     "build": "tsc",
     "start": "tsc && node dist/task1_data_management.js"
   },
-  "author": "",
+  "author": "thabangR",
   "license": "ISC",
   "description": ""
 }
